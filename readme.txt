@@ -5,4 +5,8 @@ Git tracks changes of files
 Creating a new branch is quick
 git and &
 add a new branch
+<<<<<<< HEAD
 branch in dev2
+=======
+branch dev1
+>>>>>>> dev1
